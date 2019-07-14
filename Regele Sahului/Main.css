@@ -1,0 +1,65 @@
+body {
+background: silver;
+font-family: arial;
+margin: 0;
+}
+header {
+background: #999;
+color: white;
+padding: 15px 15px 0 15px;
+}
+header h1 {
+margin:0;
+display: inline;
+color:white;
+font-size:250%;
+}
+nav ul{
+margin: 0;
+padding: 0 0 0 15 px;
+display: inline;
+}
+nav ul li {
+border-radius: 10px;
+background: black;
+color: white;
+display: inline-block;
+list-style-type: none;
+padding: 5px 15px;
+margin: 0 3px;
+}
+nav ul li a{
+color:white;
+}
+p {
+font-size: 110%;
+margin: 25px;
+}
+.secondary{
+font-size: 90%;
+}
+.third{
+font-size: 200%;
+}
+.img{
+    float: right;
+}
+a{
+color: green;
+}
+.patru{
+font-size:140%;
+}
+div.polaroid {
+  width: 300;
+  height: 365;
+  background-color: tan;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 38px;
+  float: right;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
